@@ -1,5 +1,7 @@
-[   {
-         "blkom": "https://animeblkom.net",
-          "fasel": "https://www.faselhd.link"
+[
+    {
+        "blkom": "https://animeblkom.net",
+        "checkimage": "checkimage",
+        "fasel": "https://www.faselhd.link"
     }
 ]
