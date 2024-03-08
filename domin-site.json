@@ -1,7 +1,7 @@
 [
     {
         "blkom": "https://animeblkom.net",
-        "checkimage": "",
+        "checkimage": "checkimage",
         "pageanime": "/anime/page/4",
         "pageseries": 4,
         "pagemovie": 4,
